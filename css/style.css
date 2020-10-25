@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(28, 27, 34);
+}
+h1{
+    font-size: 120px;
+    font-family: 'Mukta', sans-serif;
+    color: lightgrey;
+    font-weight: 600;
+}
+p{
+    font-family: "Mukta";
+    font-size: 48px;
+    color: lightgrey;
+    font-weight: 600;
+}
+.verde{
+    color: green;
+}
+.azul{
+    color: blue;
+}
+.rojo{
+    color: red;
+}
